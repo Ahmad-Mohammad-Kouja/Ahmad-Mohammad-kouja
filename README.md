@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ahmad Mohammad Kouja</h1>
 <h3 align="center">Software enginner and backend developer</h3>
 <p>
-  A B.sc IT Engineer with ~5 years of experience in software engineering working with PHP
-and the Laravel framework
-Starting from the software engineering principle and the best practices I can build scaleable,
-maintainable, and reliable solutions from requirement analysis to finishing the project
- I am also a programming instructor teaching web development
- I am seeking to increase my knowledge of server management and AWS cloud solutions
+I am a B.Sc IT Engineer with over 5 years of experience in software engineering, specializing in PHP and the Laravel framework. My expertise in software engineering principles and best practices enables me to develop scalable, maintainable, and reliable solutions from requirement analysis to project delivery.
+
+In addition to my software engineering work, I am also a programming instructor teaching web development. I am passionate about sharing my knowledge and helping others learn the skills they need to succeed in this field.
+
+I am constantly seeking new challenges and opportunities for growth. Currently, I am interested in expanding my knowledge of server management and AWS cloud solutions to provide even more robust and efficient software solutions to my clients.
+
+Thank you for taking the time to learn about me, and I look forward to collaborating with you on exciting projects in the future
 </p>
 
 <p align="left"> <a href="https://twitter.com/KoujaMohammad" target="blank"><img src="https://img.shields.io/twitter/follow/KoujaMohamad?logo=twitter&style=for-the-badge" alt="KoujaMohammad" /></a> </p>
 
 - 🔭 I’m currently working in <a href="https://miniandmore.co/en" target="blank">Mini and More</a>
 
-- 🌱 I’m currently Working on Backend Development
+- 🌱 I’m currently Working as a Backend Development
 
 - 🤝 I’m available for freelancing.
 
