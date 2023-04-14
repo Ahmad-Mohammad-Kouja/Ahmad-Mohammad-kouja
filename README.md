@@ -17,7 +17,7 @@ maintainable, and reliable solutions from requirement analysis to finishing the 
 
 - 🤝 I’m available for freelancing.
 
--   I’m currently Reading Designing Data-Intensive Applications
+- 📕 I’m currently Reading Designing Data-Intensive Applications
 
 - 💬 Ask me about **PHP & Laravel**
 
