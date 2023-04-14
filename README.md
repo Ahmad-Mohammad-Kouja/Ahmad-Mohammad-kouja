@@ -67,7 +67,7 @@ Thank you for taking the time to learn about me, and I look forward to collabora
 ![Todoist](https://img.shields.io/badge/Todoist-E44332?style=flat-square&logo=todoist&logoColor=white)
 ![Gitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![linux](https://img.shields.io/badge/linux-%23181717.svg?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![macos](https://img.shields.io/badge/macos-0078D6?style=flat-square&logo=macos&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
