@@ -24,6 +24,8 @@ Thank you for taking the time to learn about me, and I look forward to collabora
 
 - 📫 How to reach me **kouja.ahmad.mohammad@gmail.com**
 
+- 🖋️ My Personal <a href="https://medium.com/@kouja.ahmad.mohammad" target="blank">Blog</a> 
+
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1kTjQz-XUpo1l6xGCY5m7RFTNecw9ROWA/view?usp=sharing" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
