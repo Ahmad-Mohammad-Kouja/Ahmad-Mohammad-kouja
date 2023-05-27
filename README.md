@@ -34,12 +34,14 @@ Thank you for taking the time to learn about me, and I look forward to collabora
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ahmad-mohammad-kouja/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Ahmad-Mohammad-Kouja">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12480784/ahmad-mohammad-kouja?tab=profile">
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/KoujaMohammad">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12480784/ahmad-mohammad-kouja?tab=profile">
+	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/KoujaMohammad">
+		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://t.me/Ahmad_Mohammad_Kouja">
+		<img src="https://img.icons8.com/doodle/1x/telegram--v2.png"></a>
       </div>
 
 </p>
