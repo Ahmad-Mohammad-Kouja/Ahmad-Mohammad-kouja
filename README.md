@@ -18,7 +18,7 @@ Thank you for taking the time to learn about me, and I look forward to collabora
 
 - 🤝 I’m available for freelancing.
 
-- 📕 I’m currently Reading Designing Data-Intensive Applications
+- 📕 I’m currently Reading T-SQL Fundamentals
 
 - 💬 Ask me about **PHP & Laravel**
 
