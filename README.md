@@ -12,13 +12,13 @@ Thank you for taking the time to learn about me, and I look forward to collabora
 
 <p align="left"> <a href="https://twitter.com/KoujaMohammad" target="blank"><img src="https://img.shields.io/twitter/follow/KoujaMohamad?logo=twitter&style=for-the-badge" alt="KoujaMohammad" /></a> </p>
 
-- 🔭 I’m currently working in <a href="https://miniandmore.co/en" target="blank">Mini and More</a>
+- 🔭 I’m currently working in <a href="https://skell.ai/" target="blank">Skell ai</a>
 
 - 🌱 I’m currently Working as a Backend Development
 
 - 🤝 I’m available for freelancing.
 
-- 📕 I’m currently Reading T-SQL Fundamentals
+- 📕 I’m currently Reading Daniel Nichter - Efficient MySQL Performance Best Practices and Technique
 
 - 💬 Ask me about **PHP & Laravel**
 
