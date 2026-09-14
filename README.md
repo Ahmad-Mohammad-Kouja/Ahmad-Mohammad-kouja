@@ -12,7 +12,7 @@ Thank you for taking the time to learn about me, and I look forward to collabora
 
 <p align="left"> <a href="https://twitter.com/KoujaMohammad" target="blank"><img src="https://img.shields.io/twitter/follow/KoujaMohamad?logo=twitter&style=for-the-badge" alt="KoujaMohammad" /></a> </p>
 
-- 🔭 I’m currently working in <a href="https://skell.ai/" target="blank">Skell ai</a>
+- 🔭 I’m currently working in <a href="https://badinangroup.com/badinan-soft/" target="blank">Badinan soft</a>
 
 - 🌱 I’m currently Working as a Backend Development
 
