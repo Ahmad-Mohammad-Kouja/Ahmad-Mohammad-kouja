@@ -14,11 +14,11 @@ Thank you for taking the time to learn about me, and I look forward to collabora
 
 - 🔭 I’m currently working in <a href="https://badinangroup.com/badinan-soft/" target="blank">Badinan soft</a>
 
-- 🌱 I’m currently Working as a Backend Development
+- 🌱 I’m currently working as a Software engineer
 
 - 🤝 I’m available for freelancing.
 
-- 📕 I’m currently Reading Daniel Nichter - Efficient MySQL Performance Best Practices and Technique
+- 📕 I’m currently reading Daniel Nichter - Efficient MySQL Performance Best Practices and Techniques
 
 - 💬 Ask me about **PHP & Laravel**
 
